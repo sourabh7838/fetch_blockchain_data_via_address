@@ -196,3 +196,30 @@ The tool generates Excel files with three sheets:
 - `pandas`: Data manipulation and analysis
 - `numpy`: Mathematical calculations
 - `openpyxl`: Excel file generation and styling
+
+## Expected Output Screenshots
+
+1.  Main Application Interface: - The main Bitcoin Address Analyzer interface showing the welcome message and API connectivity test. Users can see the Blockchain.info API
+status and choose their analysis option.
+
+<img width="364" height="221" alt="image" src="https://github.com/user-attachments/assets/4f806f0c-b7ef-46b1-bf3a-8aebaf1c1568" />
+
+2. Address Analysis Progress: - Real-time progress display showing transaction fetching, processing counts, and completion status for each Bitcoin address being analyzed.
+
+<img width="441" height="342" alt="image" src="https://github.com/user-attachments/assets/e931500e-f255-4071-805a-e18acad89c4d" />
+
+3. Professional Excel summary sheet with colored headers, statistics overview, and address balance information. Features blue headers for main sections and green/orange for parameter categories.
+
+   <img width="437" height="246" alt="image" src="https://github.com/user-attachments/assets/7d3acd85-540b-462f-98b2-ad3c3bf588e4" />
+
+
+5. Excel Report - Detailed Analysis Comprehensive parameter sheet showing all 39 calculated metrics with color-coded sections. Input parameters in green, output parameters in orange, and proper column formatting.
+
+   <img width="531" height="140" alt="image" src="https://github.com/user-attachments/assets/a0be7c5c-bd8e-41d0-97ba-9f53743e2edd" />
+
+
+
+
+
+
+
